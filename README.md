@@ -1,4 +1,4 @@
-# Real-time-facial-emotion-detection
+# Real-Time-Facial-Emotion-Detection
 # Facial Emotion Recognition
 
 ## Description
